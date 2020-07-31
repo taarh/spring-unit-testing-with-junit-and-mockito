@@ -12,7 +12,9 @@ public class Customer {
     public int getId() {
         return id;
     }
+    public Customer(){
 
+    }
     public Customer(int id, String email, String username) {
         this.id = id;
         this.email = email;
