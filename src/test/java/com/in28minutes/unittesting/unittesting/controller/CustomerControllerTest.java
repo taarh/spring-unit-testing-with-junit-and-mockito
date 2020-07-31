@@ -27,7 +27,7 @@ public class CustomerControllerTest {
     private CustomerService customerService;
     @Test
     public void retrieveCustomer()  throws Exception{
-       Mockito.when(customerService.retrieveCustomer(ArgumentMatchers.any())).thenReturn(Optional.of(new Customer(1000,"amin@gmail.com","amine")));
+       Mockito.when(customerService.retrieveCustomer(ArgumentMatchers.anyInt())).thenReturn(Optional.of(new Customer(1000,"amin@gmail.com","amine")));
         RequestBuilder request = MockMvcRequestBuilders
                 .get("/customer/3")
                 .accept(MediaType.APPLICATION_JSON);
