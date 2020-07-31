@@ -22,8 +22,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="JUnit.CustomerRepositoryTest">
     <configuration name="CustomerControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596208149200</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit for jenkinsfile">
+      <created>1596209204269</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596209204269</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,14 +171,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit for jenkinsfile" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="784" y="174" key="#Project_Structure" timestamp="1596203722763">
+    <state x="784" y="174" key="#Project_Structure" timestamp="1596212285543">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="784" y="174" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1596203722763" />
-    <state x="737" y="46" key="CommitChangelistDialog2" timestamp="1596208148426">
+    <state x="784" y="174" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1596212285543" />
+    <state x="737" y="46" key="CommitChangelistDialog2" timestamp="1596209203603">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="737" y="46" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1596208148426" />
+    <state x="737" y="46" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1596209203603" />
     <state width="1560" height="368" key="GridCell.Tab.0.bottom" timestamp="1596206854379">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -204,10 +211,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1560" height="269" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1596206853039" />
-    <state x="784" y="203" key="Vcs.Push.Dialog.v2" timestamp="1596208161011">
+    <state x="784" y="203" key="Vcs.Push.Dialog.v2" timestamp="1596209211535">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="784" y="203" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1596208161011" />
+    <state x="784" y="203" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1596209211535" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
