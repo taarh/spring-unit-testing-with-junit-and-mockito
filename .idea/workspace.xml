@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b62afa7-afe2-4cf8-b884-4588cb7e0c5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/business/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/business/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/unit-testing.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/UnitTestingApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/UnitTestingApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/ItemBusinessService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/ItemBusinessService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/SomeBusinessImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/SomeBusinessImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/HelloWorldController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/ItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/ItemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/CustomerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/CustomerRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/ItemRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/ItemRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/SomeDataService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/SomeDataService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/model/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/model/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/model/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/model/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/business/ListMockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/business/ListMockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/spike/AssertJTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/spike/AssertJTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fSEIm7ZbInHKqKHtOnNyrEODgc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.CustomerRepositoryTest">
+    <configuration name="CustomerControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.in28minutes.unittesting.unittesting.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.in28minutes.unittesting.unittesting.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.in28minutes.unittesting.unittesting.controller.CustomerControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerControllerTest.retrieveCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.in28minutes.unittesting.unittesting.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.in28minutes.unittesting.unittesting.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.in28minutes.unittesting.unittesting.controller.CustomerControllerTest" />
+      <option name="METHOD_NAME" value="retrieveCustomer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.in28minutes.unittesting.unittesting.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.in28minutes.unittesting.unittesting.data" />
+      <option name="MAIN_CLASS_NAME" value="com.in28minutes.unittesting.unittesting.data.CustomerRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.in28minutes.unittesting.unittesting.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.in28minutes.unittesting.unittesting.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.in28minutes.unittesting.unittesting.controller.HelloWorldControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemBusinessServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.in28minutes.unittesting.unittesting.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.in28minutes.unittesting.unittesting.business" />
+      <option name="MAIN_CLASS_NAME" value="com.in28minutes.unittesting.unittesting.business.ItemBusinessServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomerRepositoryTest" />
+        <item itemvalue="JUnit.CustomerControllerTest" />
+        <item itemvalue="JUnit.CustomerControllerTest.retrieveCustomer" />
+        <item itemvalue="JUnit.HelloWorldControllerTest" />
+        <item itemvalue="JUnit.ItemBusinessServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b62afa7-afe2-4cf8-b884-4588cb7e0c5e" name="Default Changelist" comment="" />
+      <created>1596203015759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596203015759</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="784" y="174" key="#Project_Structure" timestamp="1596203722763">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="784" y="174" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1596203722763" />
+    <state width="1560" height="368" key="GridCell.Tab.0.bottom" timestamp="1596206854379">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1560" height="368" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596206854379" />
+    <state width="1560" height="368" key="GridCell.Tab.0.center" timestamp="1596206854378">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1560" height="368" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1596206854378" />
+    <state width="1560" height="368" key="GridCell.Tab.0.left" timestamp="1596206854378">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1560" height="368" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1596206854378" />
+    <state width="1560" height="368" key="GridCell.Tab.0.right" timestamp="1596206854378">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1560" height="368" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1596206854378" />
+    <state width="1560" height="269" key="GridCell.Tab.1.bottom" timestamp="1596206853039">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1560" height="269" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596206853039" />
+    <state width="1560" height="269" key="GridCell.Tab.1.center" timestamp="1596206853039">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1560" height="269" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1596206853039" />
+    <state width="1560" height="269" key="GridCell.Tab.1.left" timestamp="1596206853039">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1560" height="269" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1596206853039" />
+    <state width="1560" height="269" key="GridCell.Tab.1.right" timestamp="1596206853039">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1560" height="269" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1596206853039" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/../Diagramme classe.suml" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

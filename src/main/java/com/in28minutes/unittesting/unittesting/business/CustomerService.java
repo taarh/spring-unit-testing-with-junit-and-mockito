@@ -8,6 +8,8 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
+
+
 @Service
 public class CustomerService {
     @Autowired
@@ -17,8 +19,8 @@ public class CustomerService {
 
         return customerRepository.findAll();
     }
-    public Optional<Customer> retrieveCustomer(int id){
-        return customerRepository.findById(id);
+    public Customer retrieveCustomer(int id){
+        return customerRepository.findById(id).get();
     }
 
 
