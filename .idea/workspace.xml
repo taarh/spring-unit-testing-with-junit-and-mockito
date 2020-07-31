@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b62afa7-afe2-4cf8-b884-4588cb7e0c5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/business/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/business/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/controller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/model/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/unit-testing.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/UnitTestingApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/UnitTestingApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/CustomerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/ItemBusinessService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/ItemBusinessService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/SomeBusinessImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/SomeBusinessImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/HelloWorldController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/ItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/ItemController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/CustomerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/CustomerRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/ItemRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/ItemRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/SomeDataService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/SomeDataService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/model/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/model/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/model/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/model/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/business/ListMockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/business/ListMockTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/spike/AssertJTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/spike/AssertJTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,13 +134,29 @@
       <option name="presentableId" value="Default" />
       <updated>1596203015759</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit for jenkinsfile">
+      <created>1596207609751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596207609751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit for jenkinsfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit for jenkinsfile" />
   </component>
   <component name="WindowStateProjectService">
     <state x="784" y="174" key="#Project_Structure" timestamp="1596203722763">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="784" y="174" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1596203722763" />
+    <state x="737" y="46" key="CommitChangelistDialog2" timestamp="1596207604630">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="737" y="46" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1596207604630" />
     <state width="1560" height="368" key="GridCell.Tab.0.bottom" timestamp="1596206854379">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -195,6 +189,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1560" height="269" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1596206853039" />
+    <state x="784" y="203" key="Vcs.Push.Dialog.v2" timestamp="1596207618567">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="784" y="203" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1596207618567" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
