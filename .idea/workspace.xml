@@ -20,64 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b62afa7-afe2-4cf8-b884-4588cb7e0c5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2020-07-31T16-46-10_011-jvmRun1.dump" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.UnitTestingApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.business.ItemBusinessServiceTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.business.ListMockTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.business.SomeBusinessMockTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.business.SomeBusinessStubTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.business.SomeBusinessTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.controller.CustomerControllerTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.controller.HelloWorldControllerTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.controller.ItemControllerTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.data.CustomerRepositoryTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.data.ItemRepositoryTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.spike.AssertJTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.spike.HamcrestMatchersTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.spike.JsonAssertTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.in28minutes.unittesting.unittesting.spike.JsonPathTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.UnitTestingApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.business.ItemBusinessServiceTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.business.ListMockTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.business.SomeBusinessMockTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.business.SomeBusinessStubTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.business.SomeBusinessTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.controller.CustomerControllerTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.controller.HelloWorldControllerTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.controller.ItemControllerTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.data.CustomerRepositoryTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.data.ItemRepositoryTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.spike.AssertJTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.spike.HamcrestMatchersTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.spike.JsonAssertTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.in28minutes.unittesting.unittesting.spike.JsonPathTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/business/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/business/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/controller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/unittesting/unittesting/model/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/unit-testing.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/UnitTestingApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/UnitTestingApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/CustomerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/ItemBusinessService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/ItemBusinessService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/SomeBusinessImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/business/SomeBusinessImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/HelloWorldController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/ItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/controller/ItemController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/CustomerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/CustomerRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/ItemRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/ItemRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/SomeDataService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/data/SomeDataService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/model/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/model/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/model/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/unittesting/unittesting/model/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/business/ListMockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/business/ListMockTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/spike/AssertJTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/unittesting/unittesting/spike/AssertJTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -235,6 +180,15 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
@@ -292,7 +246,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/in28minutes/unittesting/unittesting/controller/CustomerControllerTest.java</url>
-          <line>27</line>
+          <line>26</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
