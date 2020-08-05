@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b62afa7-afe2-4cf8-b884-4588cb7e0c5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4b62afa7-afe2-4cf8-b884-4588cb7e0c5e" name="Default Changelist" comment="commit for jenkinsfile">
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596212299050</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit for jenkinsfile">
+      <created>1596632160527</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596632160527</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,9 +242,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1560" height="269" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1596206853039" />
-    <state x="784" y="203" key="Vcs.Push.Dialog.v2" timestamp="1596212306801">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="550" y="172" key="Vcs.Push.Dialog.v2" timestamp="1596632190209">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="550" y="172" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596632190209" />
     <state x="784" y="203" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1596212306801" />
   </component>
   <component name="XDebuggerManager">
